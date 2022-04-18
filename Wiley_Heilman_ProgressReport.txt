@@ -1,0 +1,31 @@
+# Status Report
+
+#### Your name
+
+Kale Wiley and Cole Heilman
+
+#### Your section leader's name
+
+Joanne Nichols
+
+#### Project title
+
+String of Bombs
+
+***
+
+Short answers for the below questions suffice. If you want to alter your plan for your project (and obtain approval for the same), be sure to email your section leader directly!
+
+#### What have you done for your project so far?
+
+We have the base code down for how the game functions. We can simulate rounds of the game within the IDLE window. We also have developed a good understanding of how pygame works
+and are making the different windows and animations that will help the game come alive.
+
+#### What have you not done for your project yet?
+
+We still need to apply the python datetime library to our game which would allow us to put a time limit on each round of the game. 
+
+#### What problems, if any, have you encountered?
+
+We encountered issues with getting pygame installed but we have figured it out and both of us have successfully installed it. The other problems we have encountered have just been
+learning the ins and outs of pygame and other bug fixes with the code. 
